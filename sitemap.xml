@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zhu-shenli.github.io/post/tensorflow-mnist-simplest.html</loc>
+    <loc>https://zhu-shenli.github.io/post/About-Blog.html</loc>
     
-    <lastmod>2022-04-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhu-shenli.github.io/post/about.html</loc>
-    
-    <lastmod>2022-04-09</lastmod>
+    <lastmod>2022-04-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -46,15 +37,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://zhu-shenli.github.io/post/hello-world.html</loc>
-    
-    <lastmod>2022-04-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://zhu-shenli.github.io/</loc>
@@ -64,48 +46,6 @@
   </url>
 
   
-  <url>
-    <loc>https://zhu-shenli.github.io/tags/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
-    <lastmod>2022-04-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhu-shenli.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-04-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhu-shenli.github.io/tags/tensorflow/</loc>
-    <lastmod>2022-04-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhu-shenli.github.io/tags/mnist/</loc>
-    <lastmod>2022-04-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhu-shenli.github.io/tags/Python/</loc>
-    <lastmod>2022-04-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://zhu-shenli.github.io/categories/TensorFlow%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-04-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>

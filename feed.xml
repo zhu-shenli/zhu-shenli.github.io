@@ -15,74 +15,21 @@
     <atom:link href="https://zhu-shenli.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>Shenli&#39;s Blog</description>
-    <pubDate>Sat, 09 Apr 2022 02:21:28 GMT</pubDate>
+    <pubDate>Sun, 10 Apr 2022 10:28:52 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>关于我</title>
-      <link>https://zhu-shenli.github.io/post/about.html</link>
-      <guid>https://zhu-shenli.github.io/post/about.html</guid>
-      <pubDate>Fri, 08 Apr 2022 16:00:00 GMT</pubDate>
-      
-      <description>致力于分享一些技术教程和有趣的技术实践。</description>
-      
-      
-      
-      
-      
-      <category domain="https://zhu-shenli.github.io/tags/%E5%85%B3%E4%BA%8E%E6%88%91/">关于我</category>
-      
-      
-      <comments>https://zhu-shenli.github.io/post/about.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://zhu-shenli.github.io/post/hello-world.html</link>
-      <guid>https://zhu-shenli.github.io/post/hello-world.html</guid>
-      <pubDate>Tue, 05 Apr 2022 10:16:04 GMT</pubDate>
-      
-        
-        
-      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</description>
-        
+      <title>About Blog</title>
+      <link>https://zhu-shenli.github.io/post/About-Blog.html</link>
+      <guid>https://zhu-shenli.github.io/post/About-Blog.html</guid>
+      <pubDate>Sun, 10 Apr 2022 10:28:52 GMT</pubDate>
       
       
       
       
       
       
-      <comments>https://zhu-shenli.github.io/post/hello-world.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>TensorFlow入门(一) - mnist手写数字识别(网络搭建)</title>
-      <link>https://zhu-shenli.github.io/post/tensorflow-mnist-simplest.html</link>
-      <guid>https://zhu-shenli.github.io/post/tensorflow-mnist-simplest.html</guid>
-      <pubDate>Sat, 09 Dec 2017 03:51:24 GMT</pubDate>
-      
-      <description>TensorFlow 入门系列文章，mnist手写数字识别(网络搭建)。</description>
-      
-      
-      <enclosure url="https://zhu-shenli.github.io/post/tensorflow-mnist-simplest/xxx.jpg" type="image"/>
-      
-      
-      
-      <category domain="https://zhu-shenli.github.io/categories/TensorFlow%E6%95%99%E7%A8%8B/">TensorFlow教程</category>
-      
-      
-      <category domain="https://zhu-shenli.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/">机器学习</category>
-      
-      <category domain="https://zhu-shenli.github.io/tags/tensorflow/">tensorflow</category>
-      
-      <category domain="https://zhu-shenli.github.io/tags/mnist/">mnist</category>
-      
-      <category domain="https://zhu-shenli.github.io/tags/Python/">Python</category>
-      
-      
-      <comments>https://zhu-shenli.github.io/post/tensorflow-mnist-simplest.html#disqus_thread</comments>
+      <comments>https://zhu-shenli.github.io/post/About-Blog.html#disqus_thread</comments>
       
     </item>
     
